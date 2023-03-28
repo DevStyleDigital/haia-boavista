@@ -82,7 +82,7 @@ const FooterRoot: BTypes.FC<{}, HTMLElement> = ({ ...props }) => {
           1º Oficial de Registro de Imóveis de Sorocaba sob R.3/195.424
         </span>
         <span>
-          <CoreAg />
+          
         </span>
       </div>
     </FooterStyled>

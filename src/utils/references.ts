@@ -26,7 +26,7 @@ export const references = [
     name: 'Ricardo Bandeira',
     role: 'Projeto<br /> Arquitetônico',
     message:
-      '“O Haia Boa Vista é um empreendimento com localização especial. Um projeto com elegância, com uma volumetria incrível. Esse produto das incorporadoras Karvas e GRM será um marco arquitetônico em Sorocaba.”',
+      '“O Haia Boa Vista é um empreendimento com localização especial. Um projeto com elegância, com uma volumetria incrível. Esse produto das incorporadoras KarvasGRM será um marco arquitetônico em Sorocaba.”',
     videoUrl:
       'https://www.youtube.com/watch?v=4ZlVSVswZ6o&list=PL5C90tCk1y_B83UzD7ft9dg2t6j-8XTcF',
     image: RicardoImage,
